@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="App">
       <div className='Header'>
-        <img src ="https://heroic-pixie-6d7f91.netlify.app/awning.png"/>
+        <img src ="/src/pic/awning.png"/>
         <h1>Food Truck Favorites</h1>
       </div>
       
